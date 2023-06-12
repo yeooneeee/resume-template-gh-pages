@@ -1,17 +1,17 @@
 - degree: 
     name: Bachelor of Arts in Human Rights
-  university: 세명대학교
-  duration: 2021 – 2025
-  awards:
+    university: 세명대학교
+    duration: 2021 – 2025
+    awards:
     - award: 2025 졸업 예정자
       summary: |
         과대표 활동, 학생회 활동, 모니터링단 활동, 롯데 장학 재단 활동
 
 - degree: 
     name: High School Diploma
-  university: 상일여자고등학교
-  year: 2021
-  awards:
+    university: 상일여자고등학교
+    year: 2021
+    awards:
     - award: 활동 및 수상
       summary: |
         1학년 산출물 대회 장려상
