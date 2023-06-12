@@ -11,13 +11,13 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "김여원의 resume"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "2021219009 김여원의 이력서입니다."
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "dudnjs0514@naver.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
+resume_contact_telephone:       "010-2704-6640"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
